@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Code...Eat...Repeat">
+</p>
 
-<!--
-**chahatbegmal20/chahatbegmal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Chahat Begmal</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Node.JS**
+
+- 💬 Ask me about **JavaScript,React**
+
+- 📫 How to reach me **chahatbegmal@gmail.com**
+
+
+
+  <h3 align="left">Languages and Tools:</h3>
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-Green)
+![React](https://img.shields.io/badge/React-Intermediate-blue)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-purple)
+![C++](https://img.shields.io/badge/C++-Intermediate-blue)
+
+
+
+
+
+
+
