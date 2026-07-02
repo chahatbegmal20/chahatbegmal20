@@ -4,9 +4,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Chahat Begmal</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Tech enthusiast with an entrepreneurial mindset.</h3>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Backend Frameworks, System design, ML, and AI**
 
 - 💬 Ask me about **JavaScript,React**
 
