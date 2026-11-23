@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Chahat Begmal</h1>
 <h3 align="center">A passionate Tech enthusiast with an entrepreneurial mindset.</h3>
 
-- 🌱 I’m currently learning **Backend Frameworks, System design, ML, and AI**
+- 🌱 I’m currently learning ** ML, System Design, Computer Networks**
 
-- 💬 Ask me about **JavaScript,React**
+- 💬 Ask me about **JavaScript, Node.js, Software Testing, Database Design, AI Search **
 
-- 📫 How to reach me **chahatbegmal@gmail.com**
+- 📫 How to reach me: **chahatbegmal@gmail.com**
 
 
 
