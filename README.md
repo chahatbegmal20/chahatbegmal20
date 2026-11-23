@@ -10,7 +10,7 @@
 
 - 💬 Ask me about ** JavaScript, Node.js, Software Testing, Database Design, AI Search **
 
-- 📫 How to reach me: ** chahatbegmal@gmail.com **
+- 📫 How to reach me ** chahatbegmal@gmail.com **
 
 
 
